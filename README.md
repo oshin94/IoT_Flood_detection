@@ -1,5 +1,5 @@
 # IoT_Flood_detection
-The Project is an IoT based system m to detect the possibility of flooding in its early stage
+The repo hosts a mini-project which is an IoT based system m to detect the possibility of flooding in its early stage
 so that necessary precautions can be taken beforehand
 
 The following components were used:
@@ -15,4 +15,4 @@ can be accessed
 • peripherals, power supply, jumper wires, bread board,
 additional equipments - as per requirement
 
-For more details, please the PDF
+For more details, please read the PDF
